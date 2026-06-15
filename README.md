@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krish
+# 👋 Hi, I'm Kishan 
 
 ### AI Engineer | Agentic AI Developer | Full-Stack Builder
 
